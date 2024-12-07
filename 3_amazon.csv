@@ -1,0 +1,31 @@
+,Ad_Interaction_Count,Average_Monthly_Spend,Recently_Bought_Categories,Has_Credit_Card
+0,22,1660,"['Toys', 'Pet Supplies', 'Sports', 'Health', 'Office Supplies']",1
+1,41,2104,"['Beauty', 'Home', 'Books', 'Pet Supplies', 'Jewelry']",1
+2,19,671,"['Health', 'Beauty', 'Electronics', 'Music', 'Grocery']",0
+3,5,3194,"['Books', 'Garden', 'Beauty', 'Automotive', 'Electronics']",0
+4,2,4310,"['Home', 'Health', 'Jewelry', 'Books', 'Office Supplies']",1
+5,36,642,"['Beauty', 'Health', 'Grocery', 'Automotive', 'Office Supplies']",0
+6,23,3703,"['Books', 'Beauty', 'Garden', 'Fashion', 'Toys']",0
+7,2,1855,"['Automotive', 'Pet Supplies', 'Fashion', 'Sports', 'Books']",0
+8,33,1618,"['Pet Supplies', 'Music', 'Beauty', 'Books', 'Office Supplies']",1
+9,32,3111,"['Jewelry', 'Office Supplies', 'Electronics', 'Pet Supplies', 'Home']",0
+10,47,1893,"['Grocery', 'Pet Supplies', 'Jewelry', 'Sports', 'Automotive']",1
+11,20,3220,"['Home', 'Health', 'Music', 'Automotive', 'Fashion']",0
+12,7,1395,"['Fashion', 'Books', 'Automotive', 'Electronics', 'Office Supplies']",0
+13,2,3239,"['Automotive', 'Garden', 'Office Supplies', 'Sports', 'Pet Supplies']",0
+14,40,4324,"['Beauty', 'Toys', 'Health', 'Electronics', 'Fashion']",0
+15,17,2135,"['Beauty', 'Grocery', 'Electronics', 'Toys', 'Books']",1
+16,35,3067,"['Jewelry', 'Automotive', 'Music', 'Garden', 'Books']",0
+17,39,1583,"['Health', 'Home', 'Office Supplies', 'Jewelry', 'Electronics']",0
+18,47,1557,"['Electronics', 'Grocery', 'Health', 'Books', 'Sports']",0
+19,47,4712,"['Toys', 'Garden', 'Music', 'Fashion', 'Sports']",0
+20,11,1119,"['Music', 'Books', 'Electronics', 'Pet Supplies', 'Toys']",1
+21,3,4460,"['Electronics', 'Pet Supplies', 'Books', 'Office Supplies', 'Music']",0
+22,36,1186,"['Toys', 'Pet Supplies', 'Books', 'Music', 'Automotive']",1
+23,19,2360,"['Health', 'Home', 'Grocery', 'Office Supplies', 'Sports']",0
+24,20,985,"['Health', 'Home', 'Fashion', 'Office Supplies', 'Grocery']",0
+25,30,632,"['Jewelry', 'Fashion', 'Beauty', 'Health', 'Books']",1
+26,34,4182,"['Garden', 'Beauty', 'Health', 'Office Supplies', 'Electronics']",1
+27,30,933,"['Home', 'Fashion', 'Automotive', 'Jewelry', 'Toys']",0
+28,17,4408,"['Office Supplies', 'Jewelry', 'Pet Supplies', 'Sports', 'Books']",1
+29,31,1928,"['Fashion', 'Garden', 'Office Supplies', 'Beauty', 'Music']",0
